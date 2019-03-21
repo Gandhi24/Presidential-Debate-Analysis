@@ -1,2 +1,2 @@
 # Presidential-Debate-Analysis
-Analysis of American 2016 elections presidential debates
+Analysis of 2016 American elections presidential debates
